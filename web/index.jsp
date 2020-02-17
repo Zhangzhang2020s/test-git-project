@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-  测试Git的使用教程
+  测试Git
   </body>
 </html>
